@@ -6,7 +6,7 @@ An intelligent chatbot built with **FastAPI**, **MongoDB**, and **Groq LLM API**
 
 ## 🚀 Live Demo  
 👉 [AI-Study_Bot on Render](https://ai-study-bot-94tw.onrender.com/docs#/)  
-You can interact with the bot directly through the deployed web service.
+- You can interact with the bot directly through the deployed web service.
 
 ---
 
@@ -21,14 +21,13 @@ You can interact with the bot directly through the deployed web service.
 
 ## 📂 Project Structure
 
+```
 AI-Study_Bot/
 │── main.py          # Entry point with FastAPI routes
 │── requirements.txt # Dependencies
 │── README.md        # Project documentation
 │── ...              # Other supporting files
-
----
-
+```
 
 ---
 
@@ -67,12 +66,23 @@ This project is deployed on **Render**.
 
 ## 👨‍💻 Author
 **Ashish Raj**  
-- 🌐 GitHub: [ashishraj-hub](https://github.com/ashishraj-hub)  
-- 💼 LinkedIn: [Ashish Raj](https://www.linkedin.com/in/ashish-raj-ashishraj/)  
+
+###  🤝 Connect With Me
+
+If you found this project useful, interesting, or inspiring — let's connect!
+
+| Platform | Link |
+|----|----|
+| 💼 LinkedIn | [Ashish Raj](https://www.linkedin.com/in/ashish-raj-ashishraj/) |
+| 🐙 GitHub | [Ashish Raj](https://github.com/ashishraj-hub)  |
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License** – feel free to use, modify, and distribute with attribution.
+## ⭐ Support This Project
+
+If this README or project helped you:
+- **Star** ⭐ this repository
+- **Fork** 🍴 it and build your own version
+- **Share** it with someone who is learning Data Science or AI/ML
 
 ---
