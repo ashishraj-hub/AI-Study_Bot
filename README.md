@@ -64,10 +64,7 @@ This project is deployed on **Render**.
 
 ---
 
-## 👨‍💻 Author
-**Ashish Raj**  
-
-###  🤝 Connect With Me
+##  🤝 Connect With Me
 
 If you found this project useful, interesting, or inspiring — let's connect!
 
@@ -86,3 +83,42 @@ If this README or project helped you:
 - **Share** it with someone who is learning Data Science or AI/ML
 
 ---
+
+---
+
+## 👨‍💻 Author
+
+<div align="center">
+
+**Ashish Raj** —  AI Developer
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ashish_Raj-181717?style=for-the-badge&logo=github)](https://github.com/ashishraj-hub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ashish-raj-ashishraj/)
+
+*Built with ❤️ as part of the IBM Agentic AI Challenge*
+
+</div>
+
+---
+
+
+<div align="center">
+
+**Made by [Ashish Raj](https://github.com/ashishraj-hub)**
+
+
+<img src="https://komarev.com/ghpvc/?username=ashishraj-hub&label=Profile+Views&color=6C63FF&style=flat" alt="Profile Views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ If this project helped you, please give it a star! It motivates continued development.**
+
+[![Star History](https://img.shields.io/github/stars/ashishraj-hub/AI-Study_Bot?style=social)](https://github.com/ashishraj-hub/AI-Study_Bot)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
